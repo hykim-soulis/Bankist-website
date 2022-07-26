@@ -31,6 +31,7 @@ In this project, I added a sticky navigation bar on the top, smooth scrolling ef
 ## Resource
 
 This project is a css and javascript coding-along with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML and part of CSS files were provided by the instructor.
+
 The below link is the instructors github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-javascript-course.git)
