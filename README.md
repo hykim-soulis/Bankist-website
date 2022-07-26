@@ -12,6 +12,10 @@ In this project, I added a sticky navigation bar on the top, smooth scrolling ef
 - CSS Style Manipulation
 - Event Handling
 
+### Live demo link
+
+[https://bankist-hyeyoung.netlify.app/](https://bankist-hyeyoung.netlify.app/)
+
 ## How to Install and Run the Project
 
 1. Clone the project
