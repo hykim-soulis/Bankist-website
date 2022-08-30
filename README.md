@@ -4,7 +4,7 @@ This project is a marketing website for a fictional bank called "Bankist" with d
 
 ## Project Description
 
-In this project, I added a sticky navigation bar on the top, smooth scrolling effect by clicking navigation buttons, popup, tabbed and slider components. Also, I implemented lazy loading image effect to improve page loading performance.
+In this project, I added a sticky navigation bar on the top and smooth scrolling effect by clicking navigation buttons. I also implemented popup, tabbed and slider components for various views. To improve page loading performance, I added lazy loading image effect.
 
 ### What I've learned
 
